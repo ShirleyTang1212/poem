@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"防御力+10\n闪避率+20%","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0.2}],"iconIndex":136,"name":"金缕衣","note":"","params":[0,0,0,20,0,0,0,0],"price":100},
+{"id":2,"atypeId":1,"description":"防御力+15","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"儒生帽","note":"","params":[0,0,0,15,0,5,0,0],"price":50}
+]
